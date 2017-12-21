@@ -1,0 +1,42 @@
+
+.navbar{
+    -fx-background-color: #111;
+    -fx-pref-width: 250;
+}
+.nav_item{
+    -fx-background-color: #222;
+    -fx-text-fill: silver;
+    -fx-pref-width: 250;
+    -fx-pref-height: 40;
+    -fx-font: normal 20px 'Bookman Old Style', 'Algerian', 'sans-serif';
+}
+.nav_item:hover{
+    -fx-background-color: #444;
+}
+.nav_item.active{
+    -fx-background-color: #444;
+}
+.content{
+    -fx-background-color: #444;
+}
+.top_label{
+    -fx-background-color: #444;
+    -fx-text-fill: silver;
+    -fx-font: normal 15px 'Bookman Old Style', 'Algerian', 'sans-serif';
+}
+.option{
+    -fx-text-fill: silver;
+    -fx-font: normal 1.5em 'Bookman Old Style';
+}
+.btn_run{
+    -fx-background-color: #00aa00;
+    -fx-pref-width: 200;
+    -fx-pref-height: 40;
+    -fx-font: normal 20px 'Bookman Old Style', 'Algerian', 'sans-serif';
+}
+.btn_run:hover{
+    -fx-background-color: #009900;
+}
+.btn_run:focus{
+    -fx-background-color: #008800;    
+}

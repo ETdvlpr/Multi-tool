@@ -1,0 +1,12 @@
+.label {
+    -fx-background-color: #444;
+    -fx-font: normal 15px 'Bookman Old Style', 'Algerian', 'sans-serif';  
+    -fx-text-fill: #ffffff;
+    -fx-padding-left: 20px;
+}
+.check-box{
+    -fx-background-color: #444;
+    -fx-font: normal 15px 'Bookman Old Style', 'Algerian', 'sans-serif';  
+    -fx-text-fill: #ffffff;
+    -fx-padding-left: 20px;    
+}

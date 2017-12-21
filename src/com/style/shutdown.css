@@ -1,0 +1,9 @@
+.label{
+    -fx-background-color: #444;
+    -fx-text-fill: #ffffff;
+    -fx-font: normal 15px 'Bookman Old Style', 'Algerian', 'sans-serif';  
+}
+.lbl_timer{
+    -fx-background-color: #333;
+    -fx-font: bold 10em 'BankGothic Lt BT', 'Agency FB';
+}
